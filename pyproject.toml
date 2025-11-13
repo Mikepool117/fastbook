@@ -1,7 +1,0 @@
-[project]
-name = "fastbook"
-version = "0.1.0"
-description = "Fastbook Completion"
-readme = "README.md"
-requires-python = ">=3.11"
-dependencies = []

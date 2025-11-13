@@ -11,3 +11,4 @@ __pycache__/
 mise.toml
 pyproject.toml
 .python-version
+uv.lock
